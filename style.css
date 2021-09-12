@@ -1,0 +1,122 @@
+
+span img {
+    width: 81px;
+}
+.icon {
+	border: 1px solid rgb(129, 125, 125);
+    border-radius: 4px;
+    padding: 1px 14px;
+    display: inline-block;
+    margin-left: -5px;
+}
+input {
+    width: 88%;
+    border: 1px solid rgb(129, 125, 125);
+    border-radius: 1px;
+}
+ input:focus{
+   border: 2px solid rgba(36, 48, 206, 0.541);
+   box-shadow: 3px 3px 3px rgb(74, 98, 129);
+}
+.pic img{
+	width: 30px;
+	border-radius: 50%;
+}
+.margin {
+    margin: 0px 7px;
+}
+.nav5{
+	display: inline-block;
+	text-align: center;
+}
+.nav5 li{
+	display: inline-block;
+	text-align: center;
+}
+.nav5 li a {
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(27, 26, 26);
+    border-radius: 10px;
+    background-color: rgba(245, 240, 231, 0.678);
+    border: 1px solid rgb(83, 80, 80);
+    text-align: center;
+    font-size: 12px;
+    padding: 3px;
+}
+.nav1 li{
+	list-style: none;
+}
+.nav1 li a{
+	text-decoration: none;
+	color: rgb(66, 65, 65);
+
+}
+.nav2 li{
+	list-style: none;
+}
+.nav2 li a{
+	text-decoration: none;
+	color: rgb(47, 46, 46);1);
+
+}
+.nav1 li a{
+	display: inline-block;
+	text-decoration: none;
+	color: rgb(47, 46, 46);
+	color: rgb(47, 46, 46);
+	text-align: center;
+}
+.nav2 li a{
+	display: inline-block;
+	text-decoration: none;
+	color: rgb(211, 206, 206);
+	color: rgb(47, 46, 46);
+	text-align: center;
+}
+.dan {
+    margin: -3px 27px;
+    line-height: 40px;
+}
+
+.bam1 {
+    margin: 15px -60px;
+}
+
+.bam2 {margin: 16px 19px;}
+
+.menu {
+    margin: 16px 10px;
+}
+nav.nav1 {
+    border-bottom: 1px solid #58575782;
+}
+nav.nav2 {
+    border-bottom: 1px solid #58575782;
+}
+nav.video {
+    display: inline-block;
+}
+
+nav.video li {
+    display: inline-block;
+	list-style: none;
+}
+.dive {
+    padding: 15px 1px;
+    width: 918px;
+}
+.video {
+    width: 803px;
+    height: 295px;
+    line-height: 10px;
+    padding: 15px 4px;
+}
+.video-all {
+    width: 900px;
+}
+.video-all-2 {
+    position: relative;
+    top: -590px;
+    left: 222px;
+}
